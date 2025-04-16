@@ -50,4 +50,6 @@ Usage: The backend uses Socket.IO to listen for and emit messages, while the fro
 # Conclusion
 This project demonstrates how modern web technologies can be combined to create powerful, interactive, and real-time web applications. By using React.js for the frontend and Node.js with Socket.IO for the backend, developers can deliver seamless and responsive chat experiences. This task is not only a great introduction to WebSockets but also an essential step toward building scalable real-time applications.
 
+# OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ada15c96-1c8e-489e-845c-b695bdbcd684)
